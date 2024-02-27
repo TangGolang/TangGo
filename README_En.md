@@ -5,7 +5,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/%E7%A4%BE%E5%8C%BA%E7%89%88-brightgreen?style=plastic&logo=%23FF3366&logoColor=%23FF3366&color=green">
 </p>
 <p align="center" dir="auto"><a href="https://tanggo.nosugar.tech/">Official website</a> | <a href="https://nosugar.yuque.com/org-wiki-mrhite/tanggo">official documentation</a> </p>
-<p align="center" dir="auto">Language selection： <a href="https://github.com/TangGolang/TangGo/blob/main/README.md">English</a> | <a href="https://github.com/TangGolang/TangGo/blob/main/README.md">中文</a></p>
+<p align="center" dir="auto">Language selection： <a href="https://github.com/TangGolang/TangGo/blob/main/README_En.md">English</a> | <a href="https://github.com/TangGolang/TangGo/blob/main/README.md">中文</a></p>
 
 <a name="uU7QA"></a>
 # TangGo overview 
@@ -72,7 +72,7 @@ TangGo provides**one-click deployment**the remote service platform supports remo
 - Support for automated testing of headless browsers**communication hijacking**and supports intelligent breakpoints to easily hijack, modify, send, and test encrypted data in browsers. 
 - Supports the export of test processes and**one-click generation cross-platform**the independent tool. 
 
-For more information, click: [quick development framework without code visualization ]()
+For more information, click: [quick development framework without code visualization ](https://github.com/TangGolang/TangGo/blob/main/%E6%97%A0%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6_En.md)
 <a name="TS9Gc"></a>
 ## features 
 
