@@ -6,7 +6,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/%E7%A4%BE%E5%8C%BA%E7%89%88-brightgreen?style=plastic&logo=%23FF3366&logoColor=%23FF3366&color=green">
 </p>
 <p align="center" dir="auto"><a href="https://tanggo.nosugar.tech/">官网</a> | <a href="https://nosugar.yuque.com/org-wiki-mrhite/tanggo">官方文档</a> </p>
-<p align="center" dir="auto">语言选择： <a href="https://github.com/TangGolang/TangGo/blob/main/README.md">English</a> | <a href="https://github.com/TangGolang/TangGo/blob/main/README.md">中文</a></p>
+<p align="center" dir="auto">语言选择： <a href="https://github.com/TangGolang/TangGo/blob/main/README_En.md">English</a> | <a href="https://github.com/TangGolang/TangGo/blob/main/README.md">中文</a></p>
 
 
 <a name="uU7QA"></a>
