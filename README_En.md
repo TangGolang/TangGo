@@ -98,14 +98,14 @@ For more information, click: [quick development framework without code visualiza
 
 - enter [**official website**](https://tanggo.nosugar.tech/)download and Install 
 - view [**official documentation**](https://nosugar.yuque.com/org-wiki-mrhite/tanggo)learning and using
-- If you have good**suggestion**or encounter**bug**and**other questions**, welcome to use**issue**proposal, welcome to join**community feedback**. 
+- If you have good**suggestion**or encounter**bug**and**other questions**, welcome to use**issue**proposal. 
 
 ---
 
 <a name="hDD3c"></a>
-## Join the community 
-feedback through WeChat communication group: pay attention to the public number of [Sugar-free information], reply to "TangGo" and join the communication group for feedback.
-![糖果底部-无糖码](https://github.com/TangGolang/TangGo/assets/161299230/0b236346-0b33-4512-8ac6-6a626aee6d47)
+## Official account
+![糖果底部-无糖码](https://github.com/TangGolang/TangGo/assets/161299230/7fdc1a25-950f-4f22-826f-1dbe60a77fa0)
+
 
 <a name="tl60R"></a>
 ## Software License Agreement 
