@@ -8,6 +8,8 @@
 <p align="center" dir="auto"><a href="https://tanggo.nosugar.tech/">官网</a> | <a href="https://nosugar.yuque.com/org-wiki-mrhite/tanggo">官方文档</a> </p>
 <p align="center" dir="auto">语言选择： <a href="https://github.com/TangGolang/TangGo/blob/main/README_En.md">English</a> | <a href="https://github.com/TangGolang/TangGo/blob/main/README.md">中文</a></p>
 
+<p align="center" dir="auto"> 特别感谢：[Daniel Luster K 旦 Y_Main 曾哥 px1624 chan knight 2sunflower Lemon 千叶随修 China_Ran404 明天จุ๊บ ] 在建议、意见、问题反馈等方面的突出贡献！ </p>
+<p align="center" dir="auto">     感谢： [ phantom2033 huancisec 须臾 Thefour My.Tyrant 枫桦 Miclelson Umask 树先生 李慢慢233 浅唱 Mannix YiLou-tfy r0_0tm3m 92次日升日落 niucoder xzz3_4 Ymg。akuma chinaseabrother Ling_Client 吴凡 MKKO a1most photographer Tatest 杨sir 天剑实验室 大海 niucoder vd0ge Valerian k1Ll3r yi0day] 在建议、意见、问题反馈等方面的帮助和贡献！</p>
 
 <a name="uU7QA"></a>
 # 概述
